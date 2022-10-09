@@ -1,6 +1,6 @@
 # JavaBootCamp2022 Week-4
 
-## Packages
+## 1- PackagesDemos
 
 - "A package in Java is used to group related classes."
 - "Think of it as **a folder** *in* **a file** directory."
@@ -9,3 +9,8 @@
   - User-defined Packages
   
 [* source and for more](https://www.w3schools.com/java/java_packages.asp)
+
+## 2- OopWithNLayeredApp
+
+- Polymorphism structure was exemplified using interfaces.
+
